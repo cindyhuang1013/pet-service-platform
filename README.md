@@ -9,7 +9,7 @@ The platform supports **two user roles** and provides features such as authentic
 Built with **Flask + MySQL**, this project demonstrates full-stack development, backend logic design, and database integration.
 
 
-![Homepage](images/homepage.png)
+![Homepage](images/Homepage.png)
 
 
 ## 🚀 Highlights
