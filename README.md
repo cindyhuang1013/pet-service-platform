@@ -23,17 +23,17 @@ Built with **Flask + MySQL**, this project demonstrates full-stack development, 
 
 ## 🛠 Tech Stack
 
-** Backend**  
+**Backend**  
 - Python  
 - Flask  
 - SQLAlchemy  
 
-** Frontend**  
+**Frontend**  
 - HTML  
 - CSS  
 - Jinja2  
 
-** Database**  
+**Database**  
 - MySQL  
 - PyMySQL  
 
