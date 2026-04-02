@@ -1,7 +1,7 @@
 # 🐾 Funny Paw  
 ### A Full-Stack Pet Service Platform for Matching Pet Owners with Pet Sitters  
 
----
+
 
 ## 🌟 Overview
 Funny Paw is a full-stack web application designed to connect pet owners with trusted pet sitters.  
@@ -9,7 +9,7 @@ The platform supports **two user roles** and provides features such as authentic
 
 Built with **Flask + MySQL**, this project demonstrates full-stack development, backend logic design, and database integration.
 
----
+
 
 ## 🚀 Highlights
 - 🔐 Role-based user system (Pet Owner / Pet Sitter)
@@ -19,7 +19,7 @@ Built with **Flask + MySQL**, this project demonstrates full-stack development, 
 - 🗄 Persistent data storage with MySQL
 - 🌐 Multi-page web app with dynamic rendering (Jinja2)
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -37,7 +37,7 @@ Built with **Flask + MySQL**, this project demonstrates full-stack development, 
 - MySQL  
 - PyMySQL  
 
----
+
 
 ## 🧩 Core Features
 - 👤 User registration & authentication  
@@ -47,7 +47,7 @@ Built with **Flask + MySQL**, this project demonstrates full-stack development, 
 - ⭐ Review and rating system  
 - 📊 Order history and booking management  
 
----
+
 
 ## Installation
 #### Clone the repository
